@@ -3,9 +3,9 @@
 
 # In[6]:
 
-from Bio.Seq import Seq
-from Bio.Alphabet import IUPAC
-from Bio.SeqUtils import GC
+#from Bio.Seq import Seq
+#from Bio.Alphabet import IUPAC
+#from Bio.SeqUtils import GC
 
 
 # In[7]:
